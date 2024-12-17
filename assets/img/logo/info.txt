@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: vremenagroteskmediumitalic
+font link: https://www.fontspring.com/fonts/abstrkt/vremena?utm_source=fontsquirrel.com&utm_medium=download_link&utm_campaign=vremena-grotesk#firstfreeproduct
+font author: ABSTRKT
+font author site: 
+Slogan Font: Fanwood Text.otf
+
+icon designer: John T. Garcia
+icon designer link: /tongal
+        
+{"bg":"#F5E9EB","icon-gradient-0":"#70243D","icon-gradient-1":"#C15767","font":"#36131B","slogan":"#4a272f"}
+      
